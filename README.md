@@ -2,12 +2,12 @@
 
 ## Install
 
-``` go get https://github.com/pureboys/check-pic-ext```
+``` go get github.com/pureboys/check-pic-ext```
 
 
 - Code Sample
 
-```
+``` go
 package main
 
 import (
